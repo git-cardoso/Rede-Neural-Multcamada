@@ -2,7 +2,6 @@
 
 Estudo parcial redes neurais perceptron, multicamada.
 
-
 Calculos :
 
 Gradiente (gradient descent)
